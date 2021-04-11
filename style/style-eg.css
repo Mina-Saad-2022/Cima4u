@@ -1,0 +1,26 @@
+.letter .aflam_ro3b {
+  width: 162px;
+}
+.letter .Choices {
+  width: 104px;
+}
+.menu .language {
+  width: 92px;
+  height: 42px;
+  border-radius: 6px;
+  line-height: 42px;
+  background-color: #ffca28;
+  font-family: arabic;
+  font-size: 20px;
+  color: #000;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 4px;
+  margin-left: 10px;
+}
+.menu .Arabic {
+  background-color: #3f3f42;
+  color: #fff;
+}
+
+
